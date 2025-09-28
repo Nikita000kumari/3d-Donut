@@ -1,1 +1,2 @@
-# 3d-
+# 3D donut in ASCII art 
+
